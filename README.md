@@ -17,8 +17,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Csharp" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
 </div>
+
 ## 📪 Como me encontrar 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the
-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN) 
+badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abilene-rodrigues-correia-jacinto-6b043a192) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the
-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com) 
+badge&logo=gmail&logoColor=white)](mailto:abilenesax01@gmail.com) 
