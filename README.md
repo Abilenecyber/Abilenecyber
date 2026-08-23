@@ -19,7 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 </div>
 
 ## 📪 Como me encontrar 
+<a href="https://linkedin.com/in/abilene-rodrigues-correia-jacinto-6b043a192" target="_blank"><img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" />
+</a><a href="mailto:abilenesax01@gmail.com" target="_blank"><img src="https://githubusercontent.com" alt="Gmail" width="40" height="40" />
+</a>
 
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/abilene-rodrigues-correia-jacinto-6b043a192) 
-
-[![Gmail](https://shields.io)](mailto:abilenesax01@gmail.com)
