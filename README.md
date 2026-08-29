@@ -19,9 +19,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 </div>
 
 ## 📪 Como me encontrar 
-<a href="https://linkedin.com/in/abilene-rodrigues-correia-jacinto-6b043a192" target="_blank">
-  <img src="https://githubusercontent.com" width="40" height="40" alt="LinkedIn" />
-</a>
-<a href="mailto:abilenesax01@gmail.com" target="_blank">
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Gmail" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abilene-rodrigues-correia-jacinto-6b043a192) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abilenesax01@gmail.com)
